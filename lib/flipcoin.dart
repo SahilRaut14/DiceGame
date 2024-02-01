@@ -55,7 +55,7 @@ class _CoinFlipScreenState extends State<CoinFlipScreen> {
             const SizedBox(height: 30),
             ElevatedButton(
               onPressed: flipCoin,
-              child: const Text('Flip Coin'),
+              child: const Text('Flip IT'),
             ),
           ],
         ),
